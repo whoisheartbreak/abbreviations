@@ -1,5 +1,6 @@
 # abbreviations
 readme for abbreviations across several documents.  
+just use cmd + f (usual browser search functionality) to search for a specific abbrevation that you're looking for.  
 
 ECU: Electronic Control Unit;  
 XML: Extended Markup Language;  
