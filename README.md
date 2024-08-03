@@ -1,4 +1,5 @@
-# abbreviations
+# abbreviations  
+[die deutsche Fassung](https://github.com/whoisheartbreak/abk-rzungen)  
 readme for abbreviations across several documents.  
 just use cmd + f (usual browser search functionality) to search for a specific abbrevation that you're looking for.  
 
