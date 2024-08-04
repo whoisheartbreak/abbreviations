@@ -4,7 +4,7 @@ readme for abbreviations across several documents.
 just use cmd + f (usual browser search functionality) to search for a specific abbrevation that you're looking for.  
 
 ECU: Electronic Control Unit;  
-XML: Extended Markup Language;  
+XML: Extensible Markup Language;  
 SOK: Sicheres On-bord Kommunikation (Secure On-board Communication);  
 HARA: Hazard Analysis and Risk Assessment;   
 MCAL: MicroController Abstraction Layer;   
@@ -14,12 +14,39 @@ EthIf: Ethernet Interface;
 TCP/IP: Transfer Control Protcol/ Internet Protocol;  
 UDP: Unified Datagram Packet;  
 SoAd: Socket Adapter;  
-DoIP: Diagnostics over Internet Protocol;  
-Comm: Communications Layer;  
+DoIP: Diagnostic over Internet Protocol;  
+Comm: Communications (manager) Layer;  
 RTE: Run Time Environment Layer;  
 Swc: Software Component;  
+SC: Software Component;  
 EEPROM: Electrically Erasable Programmable Read Only Memory;  
 UDS: Unified Diagnostic Services;  
-CAN: Controller Area Network;  
-LIN: Local Interconnect Network;  
+CAN: Controller Area Network (a communication bus protocol);    
+LIN: Local Interconnect Network (a communication bus protocol);    
+DE: German/ Germany (DEutschland);   
+IN: India;  
+CGPA: Cumulative Grade Point Average;  
+MoI: Medium of Instruction;  
+SCOPUS: Scientific abstract and citation database;  
+FOSS: Free Open Source Software;  
+ISO: Internation Standards Organisation;  
+AISSCE: All India Senior Secondary Certification Examination;  
+AISSE: All India Secondary School Examination;  
+CR: Change Request;  
+ATG: Autonomous Technology Group;  
+VLAN: Virtual Local Area Network;  
+ISO13400-2: Diagnostic over Internet Protocol;  
+CAPL: Communications Access Programming Language;  
+SOTA: Software Over The Air;  
+DCM: Diagnostic Communication Manager;  
+HSM: Hardware Security Module;  
+CDD: Complex Device Drivers;  
+RSA: Rivest, Shamir, Adleman encryption algorithm; 
+SHA: Secure Hash Algorithm;  
+CMAC: Cipher based Message Authentication Code;  
+CERT: Computer Emergency Response Team (Carnegie Mellon University) Coding Standards;  
+RTRT: Rational Test Real Time (by IBM);  
+EthSwt: Ethernet Switch;  
+
+
 
