@@ -21,7 +21,9 @@ Swc: Software Component;
 SC: Software Component;  
 EEPROM: Electrically Erasable Programmable Read Only Memory;  
 UDS: Unified Diagnostic Services;  
-CAN: Controller Area Network (a communication bus protocol);    
+CAN: Controller Area Network (a communication bus protocol);  
+FR: Flex Ray communication protocol;  
+Eth: Automotive Ethernet communication protocol;  
 LIN: Local Interconnect Network (a communication bus protocol);    
 DE: German/ Germany (DEutschland);   
 IN: India;  
@@ -47,6 +49,20 @@ CMAC: Cipher based Message Authentication Code;
 CERT: Computer Emergency Response Team (Carnegie Mellon University) Coding Standards;  
 RTRT: Rational Test Real Time (by IBM);  
 EthSwt: Ethernet Switch;  
+XCP: Universal Measurement and Callibration Protocol;  
+CCP: CAN (Controller Area Network) Calibration Protocol;  
+JTAG: Joint Test Action Group;  
+FMEA: Faliure Mode and Effect Analysis;  
+DMAIC: Define Measure Analyse Improve Control;  
+VHDL: VHSIC (Very High Speed Integrated Circuit) Hardware Description Language;  
+R&D: Research and Development;  
+RS232: Recommended Standard 232;  
+FPGA: Field Programmable Gate Array;  
+MISRA: Motor Industry Software Reliability Association (software development guidelines);  
+TARA: Threat Assessment and Remediation Analysis (ISO 21434);  
+QT: Cross platform application development framework;  
+HARA: Hazard Analysis and Risk Assessment;  
+
 
 
 
